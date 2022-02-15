@@ -33,6 +33,7 @@
 		41CCA1AA27B2224400A1D5B0 /* Instagram.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 41CCA1A827B2224400A1D5B0 /* Instagram.xcdatamodeld */; };
 		41CCA1AC27B2224700A1D5B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41CCA1AB27B2224700A1D5B0 /* Assets.xcassets */; };
 		41CCA1AF27B2224700A1D5B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41CCA1AD27B2224700A1D5B0 /* LaunchScreen.storyboard */; };
+		41E3560C27BB32770096EF3A /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E3560B27BB32770096EF3A /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,7 @@
 		41CCA1AB27B2224700A1D5B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41CCA1AE27B2224700A1D5B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		41CCA1B027B2224700A1D5B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41E3560B27BB32770096EF3A /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		D061012EEB10A668D7A9EE51 /* Pods-Instagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instagram.release.xcconfig"; path = "Target Support Files/Pods-Instagram/Pods-Instagram.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -165,6 +167,7 @@
 				41A9181F27BA157400DC9E48 /* DatabaseManager.swift */,
 				41A9182127BA169C00DC9E48 /* AuthManager.swift */,
 				41A9182327BA176F00DC9E48 /* StorageManager.swift */,
+				41E3560B27BB32770096EF3A /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -345,6 +348,7 @@
 				41B4D5DE27B6DB800063AF03 /* ExploreViewController.swift in Sources */,
 				41B4D5EB27B6DDC30063AF03 /* RegistrationViewController.swift in Sources */,
 				41CCA1A027B2224400A1D5B0 /* AppDelegate.swift in Sources */,
+				41E3560C27BB32770096EF3A /* Extensions.swift in Sources */,
 				41B4D5F327B6DE560063AF03 /* ListViewController.swift in Sources */,
 				41A9182227BA169C00DC9E48 /* AuthManager.swift in Sources */,
 				41CCA1A227B2224400A1D5B0 /* SceneDelegate.swift in Sources */,
